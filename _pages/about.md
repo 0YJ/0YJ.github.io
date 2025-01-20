@@ -7,29 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-
 <h1 align="center">
-  <img src="GIF/heart.gif" width="40px">
+  <img src="https://0YJ.github.io/images/heart.gif" width="40px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-  <img src="GIF/Earth.gif" width="24px">
+  <img src="https://0YJ.github.io/images/Hi.gif" width="40px" />
+  <img src="https://0YJ.github.io/images/Earth.gif" width="24px">
 </h1>
 
 <br/>
 <br/>
 <p align="center">
-<img src="GIF/YJ.gif" height="288" width="888px" />
+<img src="https://0YJ.github.io/images/YJ.gif" height="288" width="888px" />
 </p>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Data Science, Embeded System, Computer Graphics, Machine Learning.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AGI, DevOps, Competitve Programming.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Computer Graphics, Machine Learning, AGI.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0YJ/0YJ/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His/J.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulties, and share the knowledge: *Hacker Spirit.***
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Sh𝚎/Her/Hers/J.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulty, and share the knowledge: *Hacker Spirit.***
 
 <br/>
 <br/>
+
 
 <p align="center">
   <!-- <img src="https://gpvc.arturio.dev/0YJ" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  --> 
@@ -47,18 +47,17 @@ redirect_from:
   </code>
 </p> -->
 
-#
+
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/WEBP/left.webp">
-  Viewers:
-  <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/WEBP/right.webp">
+  <img height="100" width="100" src="https://0YJ.github.io/images/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0YJ&theme=dark&hide_border=true"/>
+  <img height="100" width="100" src="https://0YJ.github.io/images/right.webp">
 </p>
 
-#
+
 
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
@@ -101,7 +100,7 @@ redirect_from:
 
 <br/>
 
-#
+
 
 <details open="">
 <summary>
@@ -113,45 +112,19 @@ redirect_from:
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=0YJ&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YJ&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YJ&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </div>
 
 </details>
 <br/>
 
-![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-<h4 align="center">
+![3D Profile](https://0YJ.github.io/images/profile-night-rainbow.svg)
   
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@      ,.,						@@
-@@  ('=(""")=')                                   	@@
-@@  '))|*_*|(('						@@
-@@  (' \ = / ')  Programming isn't about what you know	@@
-@@   ' _) (_ '	   It's about what you can figure out	@@
-@@   /|'~~~'|\	 					@@
-@@  /,(_   _),\	 	 .----------------------------.	@@
-@@  \\ \___/ //		 | while( ! (succed=try() ) ) |	@@
-@@   '\/   \/'		 '----------------------------'	@@
-@@    :__,__:						@@
-@@    \  /  /		        			@@
-@@     \/  /						@@
-@@     (  ;    	 Testing leads to failure		@@
-@@      \  \	  and failure leads to understanding 	@@
-@@       \ |						@@
-@@ 0YJ^  \\/)						@@
-@@     .//_/						@@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/0YJ/0YJ/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://0YJ.github.io/images/github-contribution-grid-snake.svg)
 
 <br/>
 
-#
+
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -246,7 +219,7 @@ HTML                     9 repos             ██░░░░░░░░░�
  Last Updated on 03/04/2024 02:54:40 UTC
 <!--END_SECTION:waka-->
 
-#
+
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -255,56 +228,56 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
 
-  <img width="75%" src="metrics.classic.svg"/>
-  <img width="75%" src="metrics.plugin.achievements.compact.svg"/>
-  <img src="metrics.plugin.isocalendar.svg" width="75%"/>
-  <img src="metrics.plugin.leetcode.svg" width="75%"/>
+  <img width="75%" src="https://0YJ.github.io/images/metrics.classic.svg"/>
+  <img width="75%" src="https://0YJ.github.io/images/metrics.plugin.achievements.compact.svg"/>
+  <img src="https://0YJ.github.io/images/metrics.plugin.isocalendar.svg" width="75%"/>
+  <img src="https://0YJ.github.io/images/metrics.plugin.leetcode.svg" width="75%"/>
 </p>
 
 <h1>
   Connect With Me
-  <img src="https://github.com/0YJ/0YJ/blob/master/GIF/Handshake.gif" height="25px">
+  <img src="https://0YJ.github.io/images/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://0YJ.github.io/images/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/0YJ">
-    <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://0YJ.github.io/images/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
   <a href="https://www.hackerrank.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/hr.webp"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/hr.webp"/></code>
   </a>
 
   <a href="http://www.codeforces.com/profile/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/cf.webp"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/cf.webp"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/yjzh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/lc.webp"/></code>
+    <code><img height="60" width="60" src="https://0YJ.github.io/images/lc.webp"/></code>
   </a>
 </p>
 
@@ -313,19 +286,15 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+ 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
 
-#
 
-![footer](https://github.com/0YJ/0YJ/blob/master/WEBP/footer.webp)
-<div dir="auto" align="center">
-  <br>
-  <a href="https://www.buymeacoffee.com/yjzh" target="_blank" rel="nofollow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px; max-width: 100%;" data-canonical-src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg"></a>
-  <br><br>
-</div>
+
+![footer](https://0YJ.github.io/images/footer.webp)
+
 -----
 **Credits**: [0YJ](https://github.com/0YJ)
 
-**Last Edited on**: 05/04/2024
+**Last Edited on**: 23/06/2022
