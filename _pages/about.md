@@ -229,10 +229,10 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
 
-  <img width="75%" src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.classic.svg"/>
-  <img width="75%" src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.plugin.achievements.compact.svg"/>
-  <img src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.plugin.isocalendar.svg" width="75%"/>
-  <img src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.plugin.leetcode.svg" width="75%"/>
+  <img width="75%" src="https://raw.githubusercontent.com/0YJ/0YJ/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.classic.svg"/>
+  <img width="75%" src="https://raw.githubusercontent.com/0YJ/0YJ/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.plugin.achievements.compact.svg"/>
+  <img src="https://raw.githubusercontent.com/0YJ/0YJ/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.plugin.isocalendar.svg" width="75%"/>
+  <img src="https://raw.githubusercontent.com/0YJ/0YJ/52fd78a3a8d9879b6dc3c995703aac36b2f21542/metrics.plugin.leetcode.svg" width="75%"/>
 </p>
 
 <h1>
