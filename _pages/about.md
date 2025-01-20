@@ -52,10 +52,10 @@ redirect_from:
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/WEBP/left.webp">
   Viewers:
   <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
+  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/52fd78a3a8d9879b6dc3c995703aac36b2f21542/WEBP/right.webp">
 </p>
 
 #
