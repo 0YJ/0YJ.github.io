@@ -53,7 +53,8 @@ redirect_from:
 
 <p align="center">
   <img height="100" width="100" src="https://0YJ.github.io/images/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0YJ&theme=dark&hide_border=true"/>
+  Viewers:
+  <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
   <img height="100" width="100" src="https://0YJ.github.io/images/right.webp">
 </p>
 
