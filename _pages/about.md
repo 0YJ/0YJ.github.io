@@ -53,9 +53,11 @@ redirect_from:
 
 <p align="center">
   <img height="100" width="100" src="https://0YJ.github.io/images/left.webp">
-  Viewers:
-  <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
+  <img height="100" width="100" src="https://raw.githubusercontent.com/0YJ/0YJ/master/SVG/stage.svg">
   <img height="100" width="100" src="https://0YJ.github.io/images/right.webp">
+  <br/>
+    Viewers:
+  <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
 </p>
 
 
